@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+</plist>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<string>waethre ppa</string>
+<string>Shreyas.b0b6ff0d-4d77-4a5c</string>
+<string>6.0</string>
+<string>public.app-category.weather</string>
+<string>$(CURRENT_PROJECT_VERSION)</string>
+<string>Default</string>
+<string>$(EXECUTABLE_NAME)</string>
+<true/>
+<dict>
+	<key>UIApplicationSupportsMultipleScenes</key>
+	<true/>
+	<key>UISceneConfigurations</key>
+	<dict/>
+</dict>
+<array>
+	<string>UIInterfaceOrientationPortrait</string>
+	<string>UIInterfaceOrientationPortraitUpsideDown</string>
+</array>
+<string>waethre ppa</string>
+<string>$(MARKETING_VERSION)</string>
+<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+<true/>
+<dict>
+	<key>UILaunchScreen</key>
+	<dict/>
+</dict>
+<string>$(DEVELOPMENT_LANGUAGE)</string>
+<array>
+	<string>UIInterfaceOrientationLandscapeLeft</string>
+	<string>UIInterfaceOrientationLandscapeRight</string>
+	<string>UIInterfaceOrientationPortrait</string>
+	<string>UIInterfaceOrientationPortraitUpsideDown</string>
+</array>
+<true/>
+</plist>
